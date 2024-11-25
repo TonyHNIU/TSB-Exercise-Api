@@ -1,0 +1,22 @@
+[
+  {
+    "id": "acc1",
+    "customerId": "cust1",
+    "balance": 1500.00
+  },
+  {
+    "id": "acc2",
+    "customerId": "cust1",
+    "balance": 2500.00
+  },
+  {
+    "id": "acc3",
+    "customerId": "cust2",
+    "balance": 3000.00
+  },
+  {
+    "id": "acc4",
+    "customerId": "cust2",
+    "balance": 1000.00
+  }
+]
